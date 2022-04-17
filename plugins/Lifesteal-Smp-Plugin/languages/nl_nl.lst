@@ -1,0 +1,30 @@
+!nl_nl
+@Dutch
+antiAlts.kickMessage
+&cJe bent gekickt omdat je als alt bent gedetecteerd!
+environment.displayName
+Omgeving
+commands.withdraw.message
+&cJe hebt %amount% harten verloren!
+commands.version.message
+&6Huidige versie: %version-color%%version% %status%
+commands.version.status.outdated
+VEROUDERD
+language.cleared
+&aDe geforceerde taal is verwijderd!
+elimination.ban.message
+&cJe bent verbannen omdat je verloren hebt!
+language.not-found
+&cDe taal %language% bestaat niet!
+reload
+Herladen!
+language.set
+&aDe geforceerde taal is ingesteld op %language%!
+commands.version.status.latest
+NIEUW
+commands.changelog.message
+&6Wijzigingen:
+commands.errors.player-not-found
+&cDe speler %player% bestaat niet!
+commands.no-args
+&cJe moet minimaal ￃﾩￃﾩn speler opgeven!

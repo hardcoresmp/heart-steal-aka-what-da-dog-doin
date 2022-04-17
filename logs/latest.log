@@ -1,0 +1,412 @@
+[14:15:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:15:17] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[14:15:18] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:15:21] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[14:15:21] [Server thread/INFO]: Loading properties
+[14:15:21] [Server thread/INFO]: This server is running CraftBukkit version 3443-Spigot-699290c-2c1e499 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[14:15:22] [Server thread/INFO]: Debug logging is disabled
+[14:15:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:15:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:15:22] [Server thread/INFO]: Default game type: SURVIVAL
+[14:15:22] [Server thread/INFO]: Generating keypair
+[14:15:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:15:22] [Server thread/INFO]: Using default channel type
+[14:15:24] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:15:28] [Server thread/WARN]: Legacy plugin SimpleTpa v5.9 does not specify an api-version.
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loading 4 libraries... please wait
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.6.10-RC\kotlin-stdlib-jdk8-1.6.10-RC.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlin\kotlin-stdlib\1.6.10-RC\kotlin-stdlib-1.6.10-RC.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlin\kotlin-stdlib-common\1.6.10-RC\kotlin-stdlib-common-1.6.10-RC.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.6.10-RC\kotlin-stdlib-jdk7-1.6.10-RC.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\ow2\asm\asm\7.3.1\asm-7.3.1.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\ow2\asm\asm-commons\7.3.1\asm-commons-7.3.1.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\ow2\asm\asm-analysis\7.3.1\asm-analysis-7.3.1.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\ow2\asm\asm-tree\7.3.1\asm-tree-7.3.1.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\ow2\asm\asm-util\7.3.1\asm-util-7.3.1.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core\1.6.0\kotlinx-coroutines-core-1.6.0.jar
+[14:15:28] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loaded library C:\Users\Naman\OneDrive\Desktop\heart steal\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.6.0\kotlinx-coroutines-core-jvm-1.6.0.jar
+[14:15:29] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v5.9
+[14:15:29] [Server thread/INFO]: [spark] Loading spark v1.8.14
+[14:15:29] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.25.1
+[14:15:29] [Server thread/INFO]: [LaggRemover] Loading LaggRemover v2.0.6
+[14:15:29] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Loading Lifesteal-Smp-Plugin v2.2.2
+[14:15:29] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.1-SNAPSHOT-b533
+[14:15:29] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.18.1) has not yet been tested! Proceed with caution.
+[14:15:31] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.15
+[14:15:31] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.1-SNAPSHOT-b533
+[14:15:31] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[14:15:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:15:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:15:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:15:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:15:31] [Server thread/INFO]: Preparing level "world"
+[14:15:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:15:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:32] [Server thread/INFO]: Simulation Distance: 10
+[14:15:32] [Server thread/INFO]: View Distance: 10
+[14:15:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:32] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:15:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:15:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:32] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:33] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:15:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:33] [Server thread/INFO]: Simulation Distance: 10
+[14:15:33] [Server thread/INFO]: View Distance: 10
+[14:15:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:15:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:15:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:33] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:33] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:15:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:15:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:15:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:15:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:15:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:15:33] [Server thread/INFO]: Simulation Distance: 10
+[14:15:33] [Server thread/INFO]: View Distance: 10
+[14:15:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:15:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:15:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:15:33] [Server thread/INFO]: Mob Spawn Range: 6
+[14:15:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[14:15:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:15:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:15:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:15:33] [Server thread/INFO]: Max TNT Explosions: 100
+[14:15:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:15:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:15:35] [Worker-Main-19/INFO]: Preparing spawn area: 0%
+[14:15:35] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[14:15:35] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[14:15:35] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[14:15:35] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[14:15:36] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:15:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:15:37] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:15:37] [Worker-Main-19/INFO]: Preparing spawn area: 1%
+[14:15:41] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-20/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-16/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-16/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[14:15:41] [Worker-Main-20/INFO]: Preparing spawn area: 3%
+[14:15:42] [Worker-Main-12/INFO]: Preparing spawn area: 4%
+[14:15:42] [Worker-Main-21/INFO]: Preparing spawn area: 54%
+[14:15:43] [Worker-Main-22/INFO]: Preparing spawn area: 73%
+[14:15:43] [Worker-Main-15/INFO]: Preparing spawn area: 84%
+[14:15:43] [Server thread/INFO]: Time elapsed: 10390 ms
+[14:15:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:15:44] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[14:15:44] [Worker-Main-21/INFO]: Preparing spawn area: 0%
+[14:15:45] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[14:15:45] [Worker-Main-22/INFO]: Preparing spawn area: 9%
+[14:15:46] [Worker-Main-19/INFO]: Preparing spawn area: 46%
+[14:15:46] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[14:15:46] [Worker-Main-17/INFO]: Preparing spawn area: 68%
+[14:15:47] [Worker-Main-15/INFO]: Preparing spawn area: 72%
+[14:15:47] [Worker-Main-20/INFO]: Preparing spawn area: 75%
+[14:15:48] [Worker-Main-16/INFO]: Preparing spawn area: 83%
+[14:15:49] [Worker-Main-17/INFO]: Preparing spawn area: 84%
+[14:15:49] [Worker-Main-15/INFO]: Preparing spawn area: 87%
+[14:15:49] [Worker-Main-17/INFO]: Preparing spawn area: 90%
+[14:15:50] [Worker-Main-21/INFO]: Preparing spawn area: 95%
+[14:15:50] [Server thread/INFO]: Time elapsed: 6974 ms
+[14:15:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:15:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:15:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:15:51] [Worker-Main-13/INFO]: Preparing spawn area: 1%
+[14:15:52] [Worker-Main-17/INFO]: Preparing spawn area: 15%
+[14:15:52] [Worker-Main-16/INFO]: Preparing spawn area: 36%
+[14:15:53] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[14:15:53] [Server thread/INFO]: Time elapsed: 2817 ms
+[14:15:53] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v5.9
+[14:15:53] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[14:15:53] [Server thread/INFO]: [0;33;1m[21m[SimpleTpa] Simple Tpa has been enabled on version 5.9[m
+[14:15:53] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[14:15:53] [Server thread/INFO]: [spark] Enabling spark v1.8.14
+[14:15:54] [Server thread/INFO]: [spark] Using Bukkit scheduler for tick monitoring
+[14:15:54] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.25.1
+[14:15:54] [Server thread/INFO]: [LaggRemover] Enabling LaggRemover v2.0.6
+[14:15:54] [Server thread/INFO]: 
+[14:15:54] [Server thread/INFO]:     __                      ____                                         _    _____
+[14:15:54] [Server thread/INFO]:    / /   ____ _____ _____ _/ __ \___  ____ ___  ____ _   _____  _____   | |  / /__ \
+[14:15:54] [Server thread/INFO]:   / /   / __ `/ __ `/ __ `/ /_/ / _ \/ __ `__ \/ __ \ | / / _ \/ ___/   | | / /__/ /
+[14:15:54] [Server thread/INFO]:  / /___/ /_/ / /_/ / /_/ / _, _/  __/ / / / / / /_/ / |/ /  __/ /       | |/ // __/
+[14:15:54] [Server thread/INFO]: /_____/\__,_/\__, /\__, /_/ |_|\___/_/ /_/ /_/\____/|___/\___/_/        |___//____/
+[14:15:54] [Server thread/INFO]:             /____//____/
+[14:15:54] [Server thread/INFO]: 
+[14:15:54] [Server thread/INFO]: [LaggRemover] Loaded 0 module(s)
+[14:15:54] [Server thread/INFO]: [LaggRemover] The LaggRemover AI is now active!
+[14:15:54] [Server thread/INFO]: [LaggRemover] LaggRemover has been enabled!
+[14:15:54] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Enabling Lifesteal-Smp-Plugin v2.2.2
+[14:15:54] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[14:15:55] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[14:15:55] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.15
+[14:15:55] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_18_R1[32;1m, using [33;1mMappingSpigotSkinRefresher[32;1m.[0;39m[m
+[14:15:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:15:55] [Server thread/INFO]: Done (24.620s)! For help, type "help"
+[14:15:56] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.1.15[0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m[m
+[14:15:56] [Craft Scheduler Thread - 1/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m[m
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Grind smp(915464307209285652)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rules(927437449653784628)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:announcements(919252139958738965)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:task-list(915486149923987526)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:court(945349648304963634)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(963007335767359539)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:offtopic(915466972664324137)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:spam(942680089680830474)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:roast(958658424328040458)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:anime-only(962574709722087424)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:sus-amongus-stuff(964397100525838356)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:smp-highlights(964400976532488252)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:console(964511094745993226)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:chat(964511117382656021)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:lyricz(964906865240703026)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:console(964511094745993226)
+[14:15:56] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling voice module
+[14:15:56] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 4.8.0 (Running 4.7.1-SNAPSHOT-b533). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[14:16:00] [pool-8-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (339e5e81da67cfe6210679af775eb66a9b5033be)
+[14:19:07] [User Authenticator #1/INFO]: UUID of player CaptainAK1621 is 4408761b-7370-350a-9aac-e5a496d91524
+[14:19:08] [Server thread/INFO]: CaptainAK1621[/[0:0:0:0:0:0:0:1]:56790] logged in with entity id 148 at ([world]4.478679277533102, 76.0, -26.319109778321838)
+[14:19:08] [Craft Scheduler Thread - 5/ERROR]: [DiscordSRV] Your AvatarUrl does not contain the {username} placeholder even though this server is using offline UUIDs.
+[14:19:08] [Craft Scheduler Thread - 5/ERROR]: [DiscordSRV] https://cravatar.eu/helmavatar/{username}/{size}.png#{texture} will be used because the default value does not support offline mode servers
+[14:19:08] [Craft Scheduler Thread - 5/ERROR]: [DiscordSRV] You should set your AvatarUrl to https://cravatar.eu/helmavatar/{username}/{size}.png#{texture} (or another url that supports usernames) to get rid of this error
+[14:19:11] [Server thread/INFO]: Skipping update from removed player 'EntityPlayer['CaptainAK1621'/148, l='ServerLevel[world]', x=4.48, y=76.00, z=-26.32, removed=KILLED](CaptainAK1621 at 4.478679277533102,76.0,-26.319109778321838)'
+[14:20:11] [Server thread/INFO]: CaptainAK1621 drowned
+[14:21:06] [Server thread/INFO]: CaptainAK1621 was slain by Zombie
+[14:24:53] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > hello
+[14:24:57] [Async Chat Thread - #0/INFO]: <CaptainAK1621> hi[m
+[14:24:58] [Server thread/INFO]: [Server] imma goin soon
+[14:25:01] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > whats up
+[14:25:06] [Async Chat Thread - #0/INFO]: <CaptainAK1621> nothing much[m
+[14:25:08] [Async Chat Thread - #0/INFO]: <CaptainAK1621> just playing[m
+[14:25:10] [Server thread/INFO]: [Server] bruh
+[14:25:11] [Async Chat Thread - #0/INFO]: <CaptainAK1621> wbu[m
+[14:25:17] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > nothing
+[14:25:20] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > just chatting
+[14:25:33] [Async Chat Thread - #0/INFO]: <CaptainAK1621> why is dope not joining[m
+[14:25:36] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > idk
+[14:25:39] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | admin] CaptainAK1621 > dont ask me
+[14:25:41] [Server thread/INFO]: [Server] wait
+[14:25:45] [Async Chat Thread - #0/INFO]: <CaptainAK1621> k[m
+[14:25:48] [Server thread/INFO]: [Server] im setting somethin up
+[14:25:53] [Server thread/INFO]: [Server] a plugin
+[14:26:07] [User Authenticator #2/INFO]: UUID of player DopeCraft123 is c7eadc4c-134f-3265-a9c0-55324593f93e
+[14:26:07] [Server thread/INFO]: DopeCraft123[/127.0.0.1:56961] logged in with entity id 1346 at ([world]-1670.5705873580546, 62.0, -171.4369366960518)
+[14:26:11] [Async Chat Thread - #0/INFO]: <CaptainAK1621> YOOO[m
+[14:26:21] [Async Chat Thread - #0/INFO]: <CaptainAK1621> join lobby[m
+[14:26:26] [Async Chat Thread - #0/INFO]: <DopeCraft123> k[m
+[14:26:35] [Async Chat Thread - #0/INFO]: <CaptainAK1621> dope did u do /time set day[m
+[14:26:41] [Async Chat Thread - #0/INFO]: <DopeCraft123> no?[m
+[14:26:49] [Async Chat Thread - #0/INFO]: <CaptainAK1621> k[m
+[14:26:55] [Async Chat Thread - #0/INFO]: <CaptainAK1621> i ned fud[m
+[14:26:56] [Async Chat Thread - #0/INFO]: <DopeCraft123> we at day 4[m
+[14:27:02] [Server thread/INFO]: DopeCraft123 issued server command: /tpa CaptainAK1621
+[14:27:05] [Server thread/INFO]: CaptainAK1621 issued server command: /tpaccept
+[14:27:24] [Async Chat Thread - #0/INFO]: <CaptainAK1621> thx[m
+[14:27:31] [Async Chat Thread - #0/INFO]: <CaptainAK1621> i wanna grind[m
+[14:27:40] [Async Chat Thread - #0/INFO]: <DopeCraft123> as im teammate[m
+[14:27:44] [Async Chat Thread - #0/INFO]: <CaptainAK1621> no[m
+[14:27:47] [Async Chat Thread - #0/INFO]: <CaptainAK1621> u individual[m
+[14:27:53] [Async Chat Thread - #0/INFO]: <DopeCraft123> oke[m
+[14:27:58] [Async Chat Thread - #0/INFO]: <CaptainAK1621> u told urslef[m
+[14:28:06] [Async Chat Thread - #0/INFO]: <CaptainAK1621> wow my spellings[m
+[14:28:06] [Async Chat Thread - #0/INFO]: <DopeCraft123> ayo[m
+[14:28:11] [Async Chat Thread - #0/INFO]: <DopeCraft123> why discord srv[m
+[14:28:13] [Async Chat Thread - #0/INFO]: <DopeCraft123> not wurk[m
+[14:28:23] [Async Chat Thread - #0/INFO]: <CaptainAK1621> it is working[m
+[14:28:29] [Async Chat Thread - #0/INFO]: <DopeCraft123> the voice chat[m
+[14:28:36] [Async Chat Thread - #0/INFO]: <CaptainAK1621> ooo[m
+[14:28:53] [Server thread/INFO]: DopeCraft123 issued server command: /discordsrv linked
+[14:28:58] [Async Chat Thread - #0/INFO]: <CaptainAK1621> maybe moving us to same vc rigged it[m
+[14:29:03] [Async Chat Thread - #0/INFO]: <CaptainAK1621> yesterday[m
+[14:29:09] [Async Chat Thread - #0/INFO]: <DopeCraft123> nah[m
+[14:29:22] [Server thread/INFO]: DopeCraft123 lost connection: Disconnected
+[14:29:22] [Server thread/INFO]: DopeCraft123 left the game
+[14:29:23] [User Authenticator #3/INFO]: UUID of player DopeCraft123 is c7eadc4c-134f-3265-a9c0-55324593f93e
+[14:29:23] [Server thread/INFO]: DopeCraft123[/127.0.0.1:59806] logged in with entity id 2093 at ([world]-73.7563587129423, 77.0, -65.30000001192093)
+[14:29:33] [Server thread/INFO]: CaptainAK1621 issued server command: /discordsrv link
+[14:29:38] [Async Chat Thread - #0/INFO]: <DopeCraft123> join general ig[m
+[14:29:52] [Async Chat Thread - #0/INFO]: <CaptainAK1621> i linked acc again[m
+[14:30:01] [Async Chat Thread - #0/INFO]: <CaptainAK1621> do for urself[m
+[14:30:04] [Async Chat Thread - #0/INFO]: <CaptainAK1621> also[m
+[14:30:07] [Async Chat Thread - #0/INFO]: <CaptainAK1621> i linked acc again[m
+[14:30:11] [Async Chat Thread - #0/INFO]: <DopeCraft123> oh[m
+[14:30:12] [Async Chat Thread - #0/INFO]: <CaptainAK1621> u should do too[m
+[14:30:17] [Async Chat Thread - #0/INFO]: <DopeCraft123> k[m
+[14:30:19] [Async Chat Thread - #0/INFO]: <CaptainAK1621> maybe it will fix[m
+[14:30:36] [Async Chat Thread - #0/INFO]: <CaptainAK1621> ill stay here for test[m
+[14:30:45] [Server thread/INFO]: DopeCraft123 issued server command: /discordsrv link
+[14:30:59] [Server thread/INFO]: DopeCraft123 issued server command: /discordsrv
+[14:31:14] [Server thread/INFO]: DopeCraft123 issued server command: /discord unlink
+[14:31:26] [Server thread/INFO]: DopeCraft123 issued server command: /discord link
+[14:31:39] [Async Chat Thread - #1/INFO]: <CaptainAK1621> dope come here[m
+[14:32:50] [Async Chat Thread - #2/INFO]: <CaptainAK1621> yooo[m
+[14:32:56] [Async Chat Thread - #2/INFO]: <CaptainAK1621> works[m
+[14:33:21] [Server thread/INFO]: DopeCraft123 issued server command: /tpa help
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 0.5981972079025297
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 0.9709781642887663
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.296339257437296
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.5759401794621226
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.7773487355611053
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.901457586668215
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.9662362700071867
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.985260298277126
+[14:33:53] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 1.9686401634579624
+[14:33:54] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 0.3422105350405218
+[14:33:54] [Server thread/WARN]: Boat (vehicle of CaptainAK1621) moved wrongly! 0.3422105350405218
+[14:34:42] [Server thread/INFO]: DopeCraft123 issued server command: /tpahere
+[14:35:40] [Async Chat Thread - #3/INFO]: <CaptainAK1621> meg phet[m
+[14:35:43] [Async Chat Thread - #3/INFO]: <DopeCraft123> ofc[m
+[14:35:52] [Async Chat Thread - #3/INFO]: <CaptainAK1621> dope op[m
+[14:36:39] [Async Chat Thread - #3/INFO]: <CaptainAK1621> ok i just set my gamma max[m
+[14:36:46] [Async Chat Thread - #3/INFO]: <DopeCraft123> k?[m
+[14:36:57] [Async Chat Thread - #3/INFO]: <CaptainAK1621> 1500 gamma be like-[m
+[14:37:27] [Server thread/INFO]: DopeCraft123 has made the advancement [Tactical Fishing]
+[14:37:42] [Async Chat Thread - #3/INFO]: <CaptainAK1621> more like not tactical fishing[m
+[14:37:56] [Async Chat Thread - #3/INFO]: <DopeCraft123> i can kill u[m
+[14:38:00] [Async Chat Thread - #3/INFO]: <DopeCraft123> so behave[m
+[14:38:05] [Async Chat Thread - #3/INFO]: <CaptainAK1621> k[m
+[14:39:39] [Async Chat Thread - #4/INFO]: <CaptainAK1621> breh why cant i find coal[m
+[14:39:46] [Async Chat Thread - #4/INFO]: <DopeCraft123> demn u phat[m
+[14:39:51] [Async Chat Thread - #4/INFO]: <CaptainAK1621> im at y11 rn[m
+[14:39:53] [Server thread/INFO]: DopeCraft123 has made the advancement [Not Today, Thank You]
+[14:41:08] [Async Chat Thread - #5/INFO]: <CaptainAK1621> me literally at deepslate lvl rn and still 0 coal[m
+[14:41:48] [Async Chat Thread - #5/INFO]: <CaptainAK1621> i found iron but n coal ;-;[m
+[14:51:27] [Async Chat Thread - #6/INFO]: <CaptainAK1621> ITS SNOWING[m
+[14:51:29] [Async Chat Thread - #6/INFO]: <CaptainAK1621> YOOO[m
+[14:51:33] [Async Chat Thread - #6/INFO]: <DopeCraft123> ofc[m
+[14:51:55] [Async Chat Thread - #6/INFO]: <DopeCraft123> signs u phat:- starts snowing and u excited[m
+[14:52:19] [Async Chat Thread - #6/INFO]: <CaptainAK1621> but not phetter thren meg[m
+[14:52:24] [Async Chat Thread - #6/INFO]: <CaptainAK1621> then*[m
+[14:52:24] [Async Chat Thread - #6/INFO]: <DopeCraft123> tru[m
+[14:52:32] [Async Chat Thread - #6/INFO]: <CaptainAK1621> so tru[m
+[14:52:42] [Async Chat Thread - #6/INFO]: <CaptainAK1621> YOOO[m
+[14:52:43] [Async Chat Thread - #6/INFO]: <CaptainAK1621> COAIL[m
+[14:52:46] [Async Chat Thread - #6/INFO]: <CaptainAK1621> COAL*[m
+[14:53:07] [Async Chat Thread - #6/INFO]: <DopeCraft123> signs u phatter then meg:- gets exited over coal[m
+[14:53:21] [Async Chat Thread - #6/INFO]: <CaptainAK1621> i didnt find coal for over 69420 yrs[m
+[14:53:28] [Async Chat Thread - #6/INFO]: <DopeCraft123> it so ez bruh[m
+[14:53:38] [Async Chat Thread - #6/INFO]: <CaptainAK1621> but im unlucky[m
+[14:53:55] [Async Chat Thread - #6/INFO]: <CaptainAK1621> wait[m
+[14:53:59] [Async Chat Thread - #6/INFO]: <CaptainAK1621> someone has been here[m
+[14:59:30] [Server thread/INFO]: DopeCraft123 lost connection: Disconnected
+[14:59:30] [Server thread/INFO]: DopeCraft123 left the game
+[14:59:33] [User Authenticator #4/INFO]: UUID of player DopeCraft123 is c7eadc4c-134f-3265-a9c0-55324593f93e
+[14:59:33] [Server thread/INFO]: DopeCraft123[/127.0.0.1:55526] logged in with entity id 13618 at ([world]-1176.735069317112, 41.0, -657.6999999880791)
+[15:01:48] [Async Chat Thread - #7/INFO]: <CaptainAK1621> gtg[m
+[15:01:50] [Server thread/INFO]: CaptainAK1621 lost connection: Disconnected
+[15:01:50] [Server thread/INFO]: CaptainAK1621 left the game
+[15:31:08] [Server thread/INFO]: DopeCraft123 has made the advancement [A Seedy Place]
+[15:35:56] [Server thread/INFO]: DopeCraft123 issued server command: /gamerule randomTickSpeed 1
+[15:35:56] [Server thread/INFO]: [DopeCraft123: Gamerule randomTickSpeed is now set to: 1]
+[15:36:06] [Server thread/INFO]: DopeCraft123 issued server command: /gamerule randomTickSpeed 100
+[15:36:06] [Server thread/INFO]: [DopeCraft123: Gamerule randomTickSpeed is now set to: 100]
+[15:36:52] [Server thread/INFO]: DopeCraft123 issued server command: /gamerule randomTickSpeed 1000
+[15:36:52] [Server thread/INFO]: [DopeCraft123: Gamerule randomTickSpeed is now set to: 1000]
+[15:38:56] [Server thread/INFO]: DopeCraft123 issued server command: /gamerule randomTickSpeed 1
+[15:38:56] [Server thread/INFO]: [DopeCraft123: Gamerule randomTickSpeed is now set to: 1]
+[15:41:43] [Server thread/INFO]: DopeCraft123 lost connection: Disconnected
+[15:41:43] [Server thread/INFO]: DopeCraft123 left the game
+[15:41:50] [Server thread/INFO]: Stopping the server
+[15:41:50] [Server thread/INFO]: Stopping server
+[15:41:50] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.15
+[15:41:50] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.7.1-SNAPSHOT-b533
+[15:41:50] [Server thread/INFO]: [Lifesteal-Smp-Plugin] Disabling Lifesteal-Smp-Plugin v2.2.2
+[15:41:50] [Server thread/INFO]: [LaggRemover] Disabling LaggRemover v2.0.6
+[15:41:50] [Server thread/INFO]: [LaggRemover] LaggRemover has been disabled!
+[15:41:50] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.25.1
+[15:41:50] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Saved linked accounts in 5ms
+[15:41:50] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 759ms
+[15:41:50] [Server thread/INFO]: [spark] Disabling spark v1.8.14
+[15:41:50] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v5.9
+[15:41:50] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+[15:41:50] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 5.9[m
+[15:41:50] [Server thread/INFO]: Saving players
+[15:41:51] [Server thread/INFO]: Saving worlds
+[15:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:41:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:41:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

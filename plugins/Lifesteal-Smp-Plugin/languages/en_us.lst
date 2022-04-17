@@ -1,0 +1,48 @@
+!en_us
+@English
+antiAlts.kickMessage
+&cYou have been kicked as you have been detected as an alt!
+commands.changelog.no-perms
+&cNon sei permesso/a di usare /lschangelog!
+environment.displayName
+Environment
+commands.withdraw.message
+&cYou have withdrawn %amount% hearts!
+commands.eliminate.no-perms
+&cNon sei permesso/a di usare /lseliminate!
+commands.version.message
+&6Current version: %version-color%%version% %status%
+commands.version.status.outdated
+OUTDATED
+language.cleared
+&aThe forced language has been cleared!
+elimination.ban.message
+&cYou have been banned as you have been eliminated!
+language.not-found
+&cThe language %language% does not exist!
+commands.language.no-perms
+&cNon sei permesso/a di usare /lslanguage!
+commands.health.no-perms
+&cNon sei permesso/a di usare /lshealth!
+reload
+Reloaded!
+language.set
+&aThe forced language has been set to %language%!
+commands.reload.no-perms
+&cNon sei permesso/a di usare /lsreload!
+commands.version.status.latest
+LATEST
+commands.reset.no-perms
+&cNon sei permesso/a di usare /lsreset!
+commands.changelog.message
+&6Changelog:
+commands.version.no-perms
+&cNon sei permesso/a di usare /lsversion!
+commands.withdraw.no-perms
+&cNon sei permesso/a di usare /lswithdraw!
+commands.revive.no-perms
+&cNon sei permesso/a di usare /lsrevive!
+commands.errors.player-not-found
+&cThe player %player% does not exist!
+commands.no-args
+&cYou must specify at least player!

@@ -1,0 +1,30 @@
+!it_it
+@Italian
+antiAlts.kickMessage
+&cSei stato/a kickato/a perchￃﾨ sei stato/a rilevato/a come alt!
+environment.displayName
+Ambiente
+commands.withdraw.message
+&cHai prelevato %amount% quori!
+commands.version.message
+&6Versione corrente: %version-color%%version% %status%
+commands.version.status.outdated
+VECCHIA
+language.cleared
+&aLa lingua forzata ￃﾨ stata rimossa!
+elimination.ban.message
+&cSei stato/a bannato/a perchￃﾨ sei stato/a eliminato/a!
+language.not-found
+&cLa lingua %language% non esiste!
+reload
+Ricaricato!
+language.set
+&aLa lingua forzata ￃﾨ stata impostata a %language%!
+commands.version.status.latest
+NUOVA
+commands.changelog.message
+&6Cambiamenti:
+commands.errors.player-not-found
+&cIl giocatore %player% non esiste!
+commands.no-args
+&cDevi specificare almeno un giocatore!
